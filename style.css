@@ -1,0 +1,103 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background-color: #F2F4F7;
+    font-family: "Roboto", sans-serif    
+
+}
+.container{
+    position: absolute;
+    top: 30%;
+    left: 14%;
+    font-size: 25px;
+}
+.container h1{
+   color:  #0866FF;
+   font-size: 58px;
+}
+header{
+    width: 420px; 
+    height: 380px;
+    top: 20%;
+    left: 55%;
+    position: absolute;
+    background-color: white;
+    border-radius: 7px;
+}
+.box input{
+   width: 75%;
+    margin: 10px;
+   margin-top: 18px;
+   margin-left: 21px;
+   padding: 13px 18px;
+
+}
+.link1{
+    background-color: #0866FF;
+    text-align: center;
+    margin-top: 15px;
+    padding: 10px;
+    margin-left: 22px;
+    margin-right: 17px;
+    border-radius: 7px;
+}
+.link1 a{
+    text-decoration: none;
+    color: white;
+     font-size: 20px;
+}
+.link2 {
+text-align: center;
+margin-top: 12px;
+a:hover{
+    text-decoration: underline;
+}
+}
+
+.link2 a{
+    text-decoration: none;
+    color: #0866FF;
+    font-size: 15px;
+}
+.link3 {
+    text-align: center;
+    background-color: #36A420;
+    padding: 10px;
+    height: 7%;
+    width: 45%;
+    margin-top: 8%;
+    margin-left: 23%;
+    border-radius: 5px;
+    
+}
+.link3 a{
+    text-decoration: none;
+    color: white;
+    
+    
+}
+.last p{
+    text-align: center;
+    margin-top: 15%;
+}
+.last a{
+    text-decoration: none;
+    color: black;
+}
+.last{
+    a:hover{
+        text-decoration: underline;
+    }
+}
+hr{
+    margin-top: 8%;
+    margin-left: 20px;
+    margin-right: 20px;
+    opacity: 40%;
+}
